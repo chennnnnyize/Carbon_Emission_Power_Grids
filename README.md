@@ -20,5 +20,7 @@ carbon emission rates. Simulation results validate the effectiveness
 of the calculations, while our technique provides a fundamental tool
 for applications such as carbon auditing, carbon-oriented demand
 management and future carbon-oriented capacity expansion.
+
+
 <img width="439" alt="image" src="https://github.com/chennnnnyize/Carbon_Emission_Power_Grids/assets/116547738/7cf3ea3c-2adf-4e1c-a23f-10c77e199fc8">
 
