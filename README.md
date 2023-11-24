@@ -6,6 +6,10 @@ Authors: Yize Chen, Deepjyoti Deka, Yuanyuan Shi
 
 Accepted at the 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2024).
 
+Hong Kong University of Science and Technology, Los Alamos National Lab, University of California San Diego.
+
+**Summary**: An algorithm to calculate each node's exact carbon emission rate via generation mix.
+
 In the electricity power networks, each
 generator can have distinct carbon emission rates. Due to the ex-
 istence of physical power flows, nodal power consumption is met
@@ -25,3 +29,4 @@ management and future carbon-oriented capacity expansion.
 <img width="439" alt="image" src="https://github.com/chennnnnyize/Carbon_Emission_Power_Grids/assets/116547738/7cf3ea3c-2adf-4e1c-a23f-10c77e199fc8">
 </p>
 
+**Contact**: yizehchen@lbl.gov
