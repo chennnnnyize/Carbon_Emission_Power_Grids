@@ -4,21 +4,19 @@ This is the code repo for the paper "[Contributions of Individual Generators to 
 
 Authors: Yize Chen, Deepjyoti Deka, Yuanyuan Shi
 
-Accepted at the 15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2024).
+Accepted at the *15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2024)*.
 
 Hong Kong University of Science and Technology, Los Alamos National Lab, University of California San Diego.
 
 **Summary**: An algorithm to calculate each node's exact carbon emission rate via generation mix.
 
 In the electricity power networks, each
-generator can have distinct carbon emission rates. Due to the ex-
-istence of physical power flows, nodal power consumption is met
+generator can have distinct carbon emission rates. Due to the existence of physical power flows, nodal power consumption is met
 by a combination of a set of generators, while such combination is
 determined by network topology, generators’ and lines' characteristics, and
 power demand. This work describes a technique based on physical
 power flow model, which can efficiently compute the nodal carbon
-emissions contributed by each single generator given the gener-
-ation and power flow information. We also extend the technique
+emissions contributed by each single generator given the generation and power flow information. We also extend the technique
 to calculate both the nodal average carbon emission and marginal
 carbon emission rates. Simulation results validate the effectiveness
 of the calculations, while our technique provides a fundamental tool
