@@ -1,6 +1,6 @@
 # Carbon_Emission_Power_Grids
 
-This is the code repo for the paper "Contributions of Individual Generators to Nodal Carbon Emissions"
+This is the code repo for the paper "[Contributions of Individual Generators to Nodal Carbon Emissions](https://arxiv.org/abs/2311.03712)"
 
 Authors: Yize Chen, Deepjyoti Deka, Yuanyuan Shi
 
