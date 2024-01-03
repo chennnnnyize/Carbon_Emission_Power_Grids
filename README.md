@@ -1,4 +1,4 @@
-# Carbon_Emission_Power_Grids
+# Nodal Carbon Emission Rate of Power Grids
 
 [![license](https://img.shields.io/github/license/InternLM/lagent.svg)](https://github.com/chennnnnyize/Carbon_Emission_Power_Grids/blob/main/LICENSE.txt)
 
@@ -13,7 +13,7 @@ Hong Kong University of Science and Technology, Los Alamos National Lab, Univers
 **Summary**: An algorithm to calculate each node's exact carbon emission rate via generation mix.
 
 There are growing interests on carbon accounting and clean energy technologies. In the electricity power networks, each
-generator can have distinct carbon emission rates. Due to the existence of physical power flows, nodal power consumption is met
+generator has distinct carbon emission rates. Due to the existence of physical power lines and power flows, nodal power consumption is met
 by a combination of a set of generators, while such combination is
 determined by network topology, generators’ and lines' characteristics, and
 power demand. 
