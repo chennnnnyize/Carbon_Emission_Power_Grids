@@ -1,6 +1,6 @@
 # Carbon_Emission_Power_Grids
 
-[![license](https://img.shields.io/github/license/InternLM/lagent.svg)](https://github.com/InternLM/lagent/tree/main/LICENSE)
+[![license](https://img.shields.io/github/license/InternLM/lagent.svg)](https://github.com/chennnnnyize/Carbon_Emission_Power_Grids/blob/main/LICENSE.txt)
 
 This is the code repo for the paper "[Contributions of Individual Generators to Nodal Carbon Emissions](https://arxiv.org/abs/2311.03712)"
 
