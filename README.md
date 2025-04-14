@@ -8,7 +8,7 @@
 
 Accepted at the *15th ACM International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2024)*.
 
-Hong Kong University of Science and Technology, Los Alamos National Lab, University of California San Diego.
+University of Alberta, Los Alamos National Lab, University of California San Diego.
 
 **Summary**: An algorithm to calculate each node's exact carbon emission rate via generation mix.
 
@@ -34,4 +34,6 @@ carbon emission rates.
 python marginal_carbon.py
 ```
 
-**Contact**: yizehchen@lbl.gov
+Running this python file will directly implement depth-first tree search and then find each generator's carbon distribution thgouthout the network. Then nodal average emission and marginal emission will be calculated.
+
+**Contact**: yizeh.chen@ualberta.ca
