@@ -36,4 +36,4 @@ python marginal_carbon.py
 
 Running this python file will directly implement depth-first tree search and then find each generator's carbon distribution thgouthout the network. Then nodal average emission and marginal emission will be calculated.
 
-**Contact**: yizeh.chen@ualberta.ca
+**Contact**: yize.chen@ualberta.ca
